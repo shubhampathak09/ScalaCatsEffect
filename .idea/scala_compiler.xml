@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="scalafp_7369" />
+    <profile name="sbt 2" modules="FP Course">
+      <plugins>
+        <plugin path="C:\Users\91954\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\typelevel\kind-projector_2.13.1\0.11.3\kind-projector_2.13.1-0.11.3.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
